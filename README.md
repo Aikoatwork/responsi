@@ -1,3 +1,3 @@
-# responsi
+# RESPONSI PRAKTIKUM PEMROGRAMAN APLIKASI MOBILE
 
-A new Flutter project.
+Bagas Luqman Nur Hakim - 124220004
